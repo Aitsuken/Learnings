@@ -1,0 +1,6 @@
+C:\Users\Clyde\Desktop\Github\sharupudekinai\bin\Release\sharupudekinai.exe.config
+C:\Users\Clyde\Desktop\Github\sharupudekinai\bin\Release\sharupudekinai.exe
+C:\Users\Clyde\Desktop\Github\sharupudekinai\bin\Release\sharupudekinai.pdb
+C:\Users\Clyde\Desktop\Github\sharupudekinai\obj\Release\sharupudekinai.csproj.CoreCompileInputs.cache
+C:\Users\Clyde\Desktop\Github\sharupudekinai\obj\Release\sharupudekinai.exe
+C:\Users\Clyde\Desktop\Github\sharupudekinai\obj\Release\sharupudekinai.pdb

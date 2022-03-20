@@ -1,0 +1,7 @@
+C:\Users\Clyde\Desktop\Github\sharupudekinai\bin\Debug\sharupudekinai.exe.config
+C:\Users\Clyde\Desktop\Github\sharupudekinai\bin\Debug\sharupudekinai.exe
+C:\Users\Clyde\Desktop\Github\sharupudekinai\bin\Debug\sharupudekinai.pdb
+C:\Users\Clyde\Desktop\Github\sharupudekinai\obj\Debug\sharupudekinai.csproj.AssemblyReference.cache
+C:\Users\Clyde\Desktop\Github\sharupudekinai\obj\Debug\sharupudekinai.csproj.CoreCompileInputs.cache
+C:\Users\Clyde\Desktop\Github\sharupudekinai\obj\Debug\sharupudekinai.exe
+C:\Users\Clyde\Desktop\Github\sharupudekinai\obj\Debug\sharupudekinai.pdb

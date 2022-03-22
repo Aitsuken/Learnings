@@ -10,25 +10,13 @@ namespace sharupudekinai
 	{
 		static void Main(string[] args)
 		{
-            // This loop goes row by row.
-            for (int row = 1; row <= 100; row++)
+			int[] x = new int[]{25, 30, 40, 50, 60, 70, 90, 100, 110};
+
+			int[] y = new int[x.Length];
+			for(int i =0; i < x.Length; i++)
             {
-                if (row % 5 == 0 && row % 3 == 0)
-                {
-                    Console.WriteLine("FizzBuzz");
-                }else if(row % 3 == 0)
-                {
-                    Console.WriteLine("Fizz");
-                }else if(row % 5 == 0)
-                {
-                    Console.WriteLine("Buzz");
-                }
-                else
-                {
-                    Console.WriteLine(row);
-                }
-                // Print this out to move down a line.
-                Console.WriteLine();
+				y[i] = x[i];
+				Console.Write(y[i] + " ");
             }
 
             // Wait for the user to respond before closing...
